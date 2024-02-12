@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\ders\Can Boz C#\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe.config
+C:\Users\ACER\Desktop\ders\Can Boz C#\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe
+C:\Users\ACER\Desktop\ders\Can Boz C#\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.pdb
+C:\Users\ACER\Desktop\ders\Can Boz C#\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\ders\Can Boz C#\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.Properties.Resources.resources
+C:\Users\ACER\Desktop\ders\Can Boz C#\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\ders\Can Boz C#\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ders\Can Boz C#\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.exe
+C:\Users\ACER\Desktop\ders\Can Boz C#\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.pdb
+C:\Users\ACER\Desktop\ders\Can Boz C#\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.Labirent.resources
